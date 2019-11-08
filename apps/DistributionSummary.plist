@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>WebToApp.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>E336233A59E4E68FE99976D5A98F82EA2B5DA64E</string>
+				<key>dateExpires</key>
+				<string>05/12/2019</string>
+				<key>type</key>
+				<string>iOS Development</string>
+			</dict>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>HA5A9VDG82.com.bankaero.mobiletest</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>HA5A9VDG82</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>HA5A9VDG82.com.bankaero.mobiletest</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Bankaero.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>aec78730-fd7a-4c86-ad2f-a9935f6a3cbb</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: *</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>HA5A9VDG82</string>
+				<key>name</key>
+				<string>Maksims Isaev</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

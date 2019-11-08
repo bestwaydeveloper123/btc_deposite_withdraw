@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /login
+Disallow: /admin
+Disallow: /user/register
+Disallow: /user/forgot
+Disallow: /privacy
+Disallow: /aml
